@@ -6,6 +6,7 @@ Nello script in R potrete trovare un analisi esplorativa del dataset, barplot, s
 
 Come è stato svolto il PCTO:
 
+
 - 1/02 Primo incontro:
    -Presentazioni
    -Spiegazione del progetto e della research question
