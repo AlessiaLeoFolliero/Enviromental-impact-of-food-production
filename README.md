@@ -5,6 +5,7 @@ Nel dataset sono presenti 43 prodotti e i loro relativi impatti per processo pro
 Nello script in R potrete trovare un analisi esplorativa del dataset, barplot, stacked barplot, k-means clustering e hierarchical clustering.
 
 Come è stato svolto il PCTO:
+
 - 1/02 Primo incontro:
    -Presentazioni
    -Spiegazione del progetto e della research question
