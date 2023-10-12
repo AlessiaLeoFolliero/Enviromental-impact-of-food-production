@@ -33,4 +33,5 @@ Come è stato svolto il PCTO:
    
  - 14/04 Sesto incontro:
    -Fine presentazione e eventuali chiarimenti
+In the following link you will find the final result of the project: https://www.canva.com/design/DAFxCVOJN18/3JoFTE8k3b4rhPGBk5bj3w/edit?utm_content=DAFxCVOJN18&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
